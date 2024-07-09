@@ -8,5 +8,3 @@
 
 -----
 
-
-💡 Te invitamos a visitar [canal de YouTube de freeCodeCamp en Español](https://www.youtube.com/freecodecampespanol).
